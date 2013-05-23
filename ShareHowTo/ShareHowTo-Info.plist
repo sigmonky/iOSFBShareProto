@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.mtvn.deeplinking</string>
+	<string>com.vmn.deeplinking</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -27,14 +27,14 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb540453056000422</string>
+				<string>fb585077064858144</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>FacebookAppID</key>
-	<string>540453056000422</string>
+	<string>585077064858144</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -48,6 +48,6 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>FacebookDisplayName</key>
-	<string>Deeplinking</string>
+	<string>vmndeeplink</string>
 </dict>
 </plist>

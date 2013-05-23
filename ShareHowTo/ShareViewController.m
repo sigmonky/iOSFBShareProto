@@ -86,8 +86,7 @@ UIAlertViewDelegate>
          @"Facebook SDK for iOS", @"name",
          @"Build great social apps and get more installs.", @"caption",
          @"The Facebook SDK for iOS makes it easier and faster to develop Facebook integrated iOS apps.", @"description",
-         //@"https://developers.facebook.com/ios", @"link",
-         @"https://apps.facebook.com/mtvndeeplinkdemo/", @"link",
+         @"https://m.facebook.com/apps/vmndeeplinkdemo/?deeplink=xxx", @"link",
          @"https://raw.github.com/fbsamples/ios-3.x-howtos/master/Images/iossdk_logo.png", @"picture",
          nil];
     }
